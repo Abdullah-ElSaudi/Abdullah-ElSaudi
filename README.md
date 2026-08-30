@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Abdullah 👋
 
-<!--
-**Abdullah-ElSaudi/Abdullah-ElSaudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Artificial Intelligence Student
 
-Here are some ideas to get you started:
+💻 Currently learning Python and Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building projects and improving my programming skills
+
+📚 Interested in Software Development, Artificial Intelligence, and Cybersecurity
+
+### 🛠️ Skills
+
+- Python
+- HTML
+- CSS
+- Git & GitHub
+- Microsoft Excel
+
+### 🌱 Currently Learning
+
+- Python
+- Web Development
+- Data Structures & Algorithms
+
+### 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/abdullah-el-saudi-a763812b9/
