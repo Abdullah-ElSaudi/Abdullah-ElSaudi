@@ -24,4 +24,4 @@
 
 ### 📫 Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/abdullah-el-saudi-a763812b9/
+- LinkedIn: https://www.linkedin.com/in/abdullah-el-saudi
